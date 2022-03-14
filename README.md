@@ -1,5 +1,5 @@
 <h2 align="center">Hello there</h2>
-###Im'a a mechatronics graduate looking for a job
+<h3 align="left">Im'a a mechatronics graduate looking for a job</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
