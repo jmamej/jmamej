@@ -5,7 +5,7 @@
 <p align="left">
 <a href="www.linkedin.com/in/juliusz-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliusz mamej linkedin" height="30" width="40" /></a>
   
-<a href="www.linkedin.com/in/juliusz-m" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/57408600/158161973-c25effe3-4552-430d-9940-a790662b9ad3.png)" alt="juliusz mamej email" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/juliusz-m" target="blank"><img align="center" src=![image](https://user-images.githubusercontent.com/57408600/158161973-c25effe3-4552-430d-9940-a790662b9ad3.png) alt="juliusz mamej email" height="30" width="40" /></a>
 </p>
 
 
