@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there
+<h1 align="center">Hello there</h1>
 <h3 align="center">Text</h3>
 
 <h3 align="left">Connect with me:</h3>
