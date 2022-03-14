@@ -12,7 +12,13 @@
 
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<progress id="file" max="100" value="70"> 70% </progress>
+<div class="rating" data-rate="1">
+  <i class="star-1">★</i>
+  <i class="star-2">★</i>
+  <i class="star-3">★</i>
+  <i class="star-4">★</i>
+  <i class="star-5">★</i>
+</div>
 </p>
 
 
