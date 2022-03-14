@@ -7,6 +7,8 @@
 </p>
 
 <a href="jmamej23@gmail.com?"><img src="https://user-images.githubusercontent.com/57408600/158161973-c25effe3-4552-430d-9940-a790662b9ad3.png"/></a>
+<a href="mailto:emersonpess011108@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 
 
 <h4 align="left">Acquainted languages and Tools:</h3>
