@@ -22,4 +22,4 @@
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
-<progress id="file" max="100" value="70"> 70% </progress>
+https://progress-bar.dev/<thepercentage>
