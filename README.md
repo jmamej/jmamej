@@ -24,7 +24,13 @@
 
 
 
+2 stars
 
+<img src="http://www.clker.com/cliparts/2/R/Z/Q/E/z/pastel-yellow-star.svg.med.png" alt="star" width="16" height="16"/> <img src="http://www.clker.com/cliparts/2/R/Z/Q/E/z/pastel-yellow-star.svg.med.png" alt="star" width="16" height="16"/> <img src="http://www.clker.com/cliparts/T/y/k/o/D/E/white-star-md.png" alt="star" width="16" height="16"/> <img src="http://www.clker.com/cliparts/T/y/k/o/D/E/white-star-md.png" alt="star" width="16" height="16"/> <img src="http://www.clker.com/cliparts/T/y/k/o/D/E/white-star-md.png" alt="star" width="16" height="16"/>
+
+3 stars
+
+<img src="http://www.clker.com/cliparts/2/R/Z/Q/E/z/pastel-yellow-star.svg.med.png" alt="star" width="16" height="16"/> <img src="http://www.clker.com/cliparts/2/R/Z/Q/E/z/pastel-yellow-star.svg.med.png" alt="star" width="16" height="16"/> <img src="http://www.clker.com/cliparts/2/R/Z/Q/E/z/pastel-yellow-star.svg.med.png" alt="star" width="16" height="16"/> <img src="http://www.clker.com/cliparts/T/y/k/o/D/E/white-star-md.png" alt="star" width="16" height="16"/> <img src="http://www.clker.com/cliparts/T/y/k/o/D/E/white-star-md.png" alt="star" width="16" height="16"/>
 
 
 <img src="http://www.clker.com/cliparts/2/R/Z/Q/E/z/pastel-yellow-star.svg.med.png" alt="star" width="16" height="16"/>
