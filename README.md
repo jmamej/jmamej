@@ -32,6 +32,13 @@
 
 
 
-<img src="https://clipart.world/wp-content/uploads/2020/09/Cartoon-star-clipart-transparent.png" alt="star" width="30" height="30"/>
+<img src="http://www.clker.com/cliparts/T/y/k/o/D/E/white-star-md.png" alt="star" width="30" height="30"/>
+
+<img src="http://www.clker.com/cliparts/2/R/Z/Q/E/z/pastel-yellow-star.svg.med.png" alt="star" width="30" height="30"/>
+
+
+
+
+
 
 
